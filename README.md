@@ -11,8 +11,9 @@ Our bot, for now, works on 3 main categories only:
 - 🛡️ **Moderation.** 
 -----------
 # Our team
-- Grell - Leader
-- Exo - Co-Leaders (Voluntary Contributer)
+- Axel. (ambix) - Leaders 
+- Exo - Leaders (Voluntary Contributer)
+- Grell - Co-Leaders
 - Exopapi - Voluntary Contributer.
 - Washi -  RSIX Leaders.
 - LMIS - RSIX Leaders.
