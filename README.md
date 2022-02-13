@@ -11,7 +11,7 @@ Our bot, for now, works on 3 main categories only:
 - 🛡️ **Moderation.** 
 -----------
 # Our team
-- Axel. (ambix) - Leaders 
+- Axel. (ambitix) - Leaders 
 - Exo - Leaders (Voluntary Contributer)
 - Grell - Co-Leaders
 - Exopapi - Voluntary Contributer.
